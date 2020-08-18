@@ -1,4 +1,4 @@
-# React App Terraform AWS CodePipeline Boilerplate
+# React Terraform AWS CodePipeline Boilerplate
 
 A reference project to deploy a React app onto AWS CodePipeline with Terraform
 
@@ -46,7 +46,7 @@ terraform apply # deploys AWS stack
 terraform destroy # destroys AWS stack
 ```
 
-When prompted `github_token`, provide the value and hit Return
+When prompted for `github_token`, provide the value and hit Return
 
 ## Contributing
 
