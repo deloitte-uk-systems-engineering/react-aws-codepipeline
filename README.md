@@ -1,8 +1,8 @@
 # React Terraform AWS CodePipeline Boilerplate
 
-A reference project to deploy a React app onto AWS CodePipeline with Terraform
+A reference project to deploy a React app onto AWS CodePipeline with Terraform. Inspired by [this](https://www.youtube.com/watch?v=zkNdHv1iMgY) YouTube course by LucasChen
 
-App URL [here](https://matlau-aws-react-codepipeline-bucket.s3.amazonaws.com/index.html)
+App URL [here](http://matlau-aws-react-codepipeline-bucket.s3-website-us-east-1.amazonaws.com/)
 
 ## Pre-requisite
 
